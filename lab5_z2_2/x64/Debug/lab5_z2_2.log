@@ -1,0 +1,4 @@
+﻿  lab5_z2_2.c
+C:\Users\user\source\repos\lab5_z2_2\lab5_z2_2\lab5_z2_2.c(10,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\lab5_z2_2\lab5_z2_2\lab5_z2_2.c(14,10): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "const int *"
+  lab5_z2_2.vcxproj -> C:\Users\user\source\repos\lab5_z2_2\x64\Debug\lab5_z2_2.exe
